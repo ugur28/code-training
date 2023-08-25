@@ -5,3 +5,4 @@ while True:
     else:
         for x in range (1,s1):
             print(x)
+            print(x)
