@@ -1,0 +1,1 @@
+print("Gerçekte yolun başındayım yol uzun")
