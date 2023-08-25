@@ -1,0 +1,1 @@
+print("buralar çok karmaşık ")
