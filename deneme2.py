@@ -1,1 +1,0 @@
-print("buralar çok karmaşık ")
